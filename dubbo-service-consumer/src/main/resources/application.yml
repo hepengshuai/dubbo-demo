@@ -1,0 +1,7 @@
+dubbo:
+  registry:
+    address: 127.0.0.1
+    protocol: zookeeper
+    port: 2181
+  application:
+    name: dubbo-service-consumer
